@@ -1,0 +1,14 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,date,month,year,Name,Unique_Code
+Asia,Sri Lanka,Fruits,Online,H,13/03/17,484823930,20/04/17,9030,9.33,6.92,13,03,2017,Nobita,Nobsia930
+Asia,Thailand,Fruits,Online,M,29/06/17,980155408,04/07/17,8621,9.33,6.92,29,06,2017,James,Jamsia408
+Central America and the Caribbean,Nicaragua,Household,Online,C,28/10/15,573998582,07/12/15,7791,668.27,502.54,28,10,2015,Devis,Devean582
+Asia,Vietnam,Fruits,Online,C,06/07/16,455516612,19/07/16,6343,9.33,6.92,06,07,2016,Sherlock,Shesia612
+Europe,Ukraine,Cosmetics,Online,M,08/02/14,942602765,27/02/14,5960,437.2,263.33,08,02,2014,HanTaeSu,Hanope765
+Europe,France,Cosmetics,Online,M,07/12/15,324669444,18/01/16,5758,437.2,263.33,07,12,2015,Hary,Harope444
+Europe,Ukraine,Fruits,Online,L,23/11/16,110557496,24/12/16,5275,9.33,6.92,23,11,2016,Sonio,Sonope496
+Sub-Saharan Africa,Togo,Cosmetics,Online,M,08/09/15,563681733,09/09/15,4806,437.2,263.33,08,09,2015,Emily,Emiica733
+Middle East and North Africa,Morocco,Clothes,Online,M,14/09/13,667593514,19/10/13,4611,109.28,35.84,14,09,2013,Haze,Hazica514
+Europe,Italy,Cereal,Online,C,30/11/15,887409770,05/12/15,3126,205.7,117.11,30,11,2015,Otis,Otiope770
+Europe,Monaco,Personal Care,Online,M,16/03/15,934613645,22/03/15,1801,81.73,56.67,16,03,2015,Watson,Watope645
+Sub-Saharan Africa,Tanzania,Beverages,Online,L,30/11/16,659878194,16/01/17,1476,47.45,31.79,30,11,2016,Zaved,Zavica194
+Central America and the Caribbean,Saint Kitts and Nevis ,Snacks,Online,C,27/06/17,452521550,29/07/17,38,152.58,97.44,27,06,2017,Judy,Judean550

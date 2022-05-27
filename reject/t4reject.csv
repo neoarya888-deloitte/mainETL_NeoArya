@@ -1,0 +1,3 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,date,month,year,errorMessage
+Middle East and North Africa,Morocco,Clothes,Online,M,14/09/13,667593514,19/10/13,4611,163.92,35.84,14,09,2013,Region.compareTo("Asia") == 0 failed|Item_Type.compareTo("Fruits") == 0 failed|date.compareTo("29") > 0 failed|month.compareTo("11") > 0 failed|year.compareTo("2014") > 0 failed
+Europe,Ukraine,Cosmetics,Online,M,08/02/14,942602765,27/02/14,5960,655.80005,263.33,08,02,2014,Region.compareTo("Asia") == 0 failed|Item_Type.compareTo("Fruits") == 0 failed|date.compareTo("29") > 0 failed|month.compareTo("11") > 0 failed|year.compareTo("2014") > 0 failed

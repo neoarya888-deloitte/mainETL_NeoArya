@@ -1,0 +1,6 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,date,month,year
+Asia,Sri Lanka,Fruits,Online,H,13/03/17,484823930,20/04/17,9030,9.33,6.92,13,03,2017
+Central America and the Caribbean,Nicaragua,Household,Online,C,28/10/15,573998582,07/12/15,7791,668.27,502.54,28,10,2015
+Asia,Vietnam,Fruits,Online,C,06/07/16,455516612,19/07/16,6343,9.33,6.92,06,07,2016
+Europe,Italy,Cereal,Online,C,30/11/15,887409770,05/12/15,3126,205.7,117.11,30,11,2015
+Central America and the Caribbean,Saint Kitts and Nevis ,Snacks,Online,C,27/06/17,452521550,29/07/17,38,152.58,97.44,27,06,2017

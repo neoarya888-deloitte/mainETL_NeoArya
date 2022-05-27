@@ -1,0 +1,1 @@
+﻿key,valuecsvsource_salesdata,C:\Users\neoarya\Desktop\week4\MainAssignmentETL\Sales data.csvcsvsource_lookup,C:\Users\neoarya\Desktop\week4\MainAssignmentETL\lookup.csvcsv_salesfilter1,C:\Users\neoarya\Desktop\week4\MainAssignmentETL\success\filterd1.csvdb_login,postgresdb_password,12345678db_host,localhostdb_schema,publicdb_name,postgresdb_port,5432

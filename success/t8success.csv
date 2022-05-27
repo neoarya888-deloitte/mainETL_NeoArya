@@ -1,0 +1,9 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,date,month,year
+,,Fruits,,,,,,29269,,,,,
+,,Cosmetics,,,,,,16524,,,,,
+,,Household,,,,,,7791,,,,,
+,,Clothes,,,,,,4611,,,,,
+,,Cereal,,,,,,3126,,,,,
+,,Personal Care,,,,,,1801,,,,,
+,,Beverages,,,,,,1476,,,,,
+,,Snacks,,,,,,38,,,,,
